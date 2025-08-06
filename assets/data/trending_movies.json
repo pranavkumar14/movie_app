@@ -1,0 +1,423 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
+      "id": 1234821,
+      "title": "Jurassic World Rebirth",
+      "original_title": "Jurassic World Rebirth",
+      "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+      "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "popularity": 672.6363,
+      "release_date": "2025-07-01",
+      "video": false,
+      "vote_average": 6.362,
+      "vote_count": 947
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+      "id": 1100988,
+      "title": "28 Years Later",
+      "original_title": "28 Years Later",
+      "overview": "Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group lives on a small island connected to the mainland by a single, heavily-defended causeway. When one member departs on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+      "poster_path": "/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ],
+      "popularity": 415.3521,
+      "release_date": "2025-06-18",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 921
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kyqM6padQzZ1eYxv84i9smNvZAG.jpg",
+      "id": 1078605,
+      "title": "Weapons",
+      "original_title": "Weapons",
+      "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+      "poster_path": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "popularity": 71.4299,
+      "release_date": "2025-08-06",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bVNPVHdUznsaTWq4m9CwDl90YAX.jpg",
+      "id": 1205515,
+      "title": "Sorry, Baby",
+      "original_title": "Sorry, Baby",
+      "overview": "Something bad happened to Agnes. But life goes on… for everyone around her, at least.",
+      "poster_path": "/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "popularity": 32.6525,
+      "release_date": "2025-06-27",
+      "video": false,
+      "vote_average": 6.224,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+      "id": 980477,
+      "title": "Ne Zha 2",
+      "original_title": "哪吒之魔童闹海",
+      "overview": "A rebellious young boy, Ne Zha, is feared by the gods and born to mortal parents with wild, uncontrolled powers. Now he's faced with an ancient force intent on destroying humanity, he must grow up to become the hero the world needs.",
+      "poster_path": "/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+      "media_type": "movie",
+      "original_language": "zh",
+      "genre_ids": [
+        16,
+        14,
+        12,
+        28
+      ],
+      "popularity": 288.2349,
+      "release_date": "2025-01-29",
+      "video": false,
+      "vote_average": 7.989,
+      "vote_count": 229
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dcLV5rEXuQRW0ZlB7IMLArHMyWh.jpg",
+      "id": 1125257,
+      "title": "Freakier Friday",
+      "original_title": "Freakier Friday",
+      "overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+      "poster_path": "/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        14,
+        35,
+        10751
+      ],
+      "popularity": 35.7299,
+      "release_date": "2025-08-06",
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8J6UlIFcU7eZfq9iCLbgc8Auklg.jpg",
+      "id": 1087192,
+      "title": "How to Train Your Dragon",
+      "original_title": "How to Train Your Dragon",
+      "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+      "poster_path": "/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        14,
+        10751,
+        28,
+        12
+      ],
+      "popularity": 481.5359,
+      "release_date": "2025-06-06",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1444
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+      "id": 617126,
+      "title": "The Fantastic 4: First Steps",
+      "original_title": "The Fantastic 4: First Steps",
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+      "poster_path": "/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "popularity": 249.5495,
+      "release_date": "2025-07-23",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 807
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+      "id": 1061474,
+      "title": "Superman",
+      "original_title": "Superman",
+      "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+      "poster_path": "/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "popularity": 241.4134,
+      "release_date": "2025-07-09",
+      "video": false,
+      "vote_average": 7.596,
+      "vote_count": 1483
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "id": 755898,
+      "title": "War of the Worlds",
+      "original_title": "War of the Worlds",
+      "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+      "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "popularity": 2650.3528,
+      "release_date": "2025-07-29",
+      "video": false,
+      "vote_average": 4.573,
+      "vote_count": 165
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oPgXVSdGR9dGwbmvIToOCMmsdc2.jpg",
+      "id": 541671,
+      "title": "Ballerina",
+      "original_title": "Ballerina",
+      "overview": "Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+      "poster_path": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "popularity": 169.1556,
+      "release_date": "2025-06-04",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1243
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fUoHnP40Mpuo14jgAOMJMPXSVfG.jpg",
+      "id": 1035259,
+      "title": "The Naked Gun",
+      "original_title": "The Naked Gun",
+      "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.",
+      "poster_path": "/5Z9tkiIDZ6u49VUeY9Fm3PuSxKT.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "popularity": 92.9529,
+      "release_date": "2025-07-30",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 86
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cEQMqB3ahd4mfeUN6VGC0ouVnZZ.jpg",
+      "id": 1071585,
+      "title": "M3GAN 2.0",
+      "original_title": "M3GAN 2.0",
+      "overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
+      "poster_path": "/4a63rQqIDTrYNdcnTXdPsQyxVLo.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "popularity": 303.4116,
+      "release_date": "2025-06-25",
+      "video": false,
+      "vote_average": 7.629,
+      "vote_count": 609
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u2ctOiURF9hL3hmXmEMHxcVPVrQ.jpg",
+      "id": 1242011,
+      "title": "Together",
+      "original_title": "Together",
+      "overview": "With a move to the countryside already testing the limits of a couple's relationship, a supernatural encounter begins an extreme transformation of their love, their lives, and their flesh.",
+      "poster_path": "/inliWt3ukcpKDGPpEe2lRDLwK2r.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        27
+      ],
+      "popularity": 101.7074,
+      "release_date": "2025-07-28",
+      "video": false,
+      "vote_average": 7.775,
+      "vote_count": 69
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xVSrVenIhbhT9DJioOkhmOlxJuq.jpg",
+      "id": 1452176,
+      "title": "Abraham's Boys: A Dracula Story",
+      "original_title": "Abraham's Boys: A Dracula Story",
+      "overview": "Following the events of Dracula, Abraham van Helsing moves his two sons, Max and Rudy, to the US in an attempt to escape their past. It does not work.",
+      "poster_path": "/owUZI7rRIN85TnXJY8gD9LdMiGU.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        27
+      ],
+      "popularity": 67.8567,
+      "release_date": "2025-07-11",
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+      "id": 986056,
+      "title": "Thunderbolts*",
+      "original_title": "Thunderbolts*",
+      "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "popularity": 142.6895,
+      "release_date": "2025-04-30",
+      "video": false,
+      "vote_average": 7.414,
+      "vote_count": 2125
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+      "id": 1175942,
+      "title": "The Bad Guys 2",
+      "original_title": "The Bad Guys 2",
+      "overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+      "poster_path": "/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        10751,
+        35,
+        80,
+        12,
+        16
+      ],
+      "popularity": 103.9771,
+      "release_date": "2025-07-24",
+      "video": false,
+      "vote_average": 7.588,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A466i5iATrpbVjX30clP1Zyfp31.jpg",
+      "id": 1307078,
+      "title": "My Oxford Year",
+      "original_title": "My Oxford Year",
+      "overview": "An ambitious American fulfilling her dream of studying at Oxford falls for a charming Brit hiding a secret that may upend her perfectly planned life.",
+      "poster_path": "/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "popularity": 229.1725,
+      "release_date": "2025-07-31",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 94
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
+      "id": 1136867,
+      "title": "Materialists",
+      "original_title": "Materialists",
+      "overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+      "poster_path": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "popularity": 69.1008,
+      "release_date": "2025-06-12",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 257
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a6bItEVaxgphpMswho1wVRerv4r.jpg",
+      "id": 7451,
+      "title": "xXx",
+      "original_title": "xXx",
+      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+      "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        80
+      ],
+      "popularity": 126.8124,
+      "release_date": "2002-08-09",
+      "video": false,
+      "vote_average": 5.956,
+      "vote_count": 4495
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}
