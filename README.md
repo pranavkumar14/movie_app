@@ -33,25 +33,25 @@ A cross-platform mobile application built with Flutter that fetches and displays
 ## 📦 Installation
 
 ```bash
-### 1. Clone the repo
-###git clone https://github.com/pranavkumar14/movie_app.git
+#1. Clone the repo
+git clone https://github.com/pranavkumar14/movie_app.git
 cd flutter-movie-app
 # movie-app
 
-### 2. Install Dependencies
+#2. Install Dependencies
  flutter pub get
 
-### 3. Add .env File
+#3. Add .env File
 Create a file named .env in the root directory:
 
 .env
 TMDB_BEARER_TOKEN=your_tmdb_api_key_here
 
-  ### 4. Generate Required Files
+#4. Generate Required Files
 
 flutter pub run build_runner build --delete-conflicting-outputs
 
- ### 5. Run the App
+#5. Run the App
  
  flutter run
 
