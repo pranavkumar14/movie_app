@@ -32,9 +32,9 @@ A cross-platform mobile application built with Flutter that fetches and displays
 
 ## 📦 Installation
 
-### 1. Clone the repo
 ```bash
-git clone https://github.com/pranavkumar14/movie_app.git
+### 1. Clone the repo
+###git clone https://github.com/pranavkumar14/movie_app.git
 cd flutter-movie-app
 # movie-app
 
