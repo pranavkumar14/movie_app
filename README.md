@@ -35,8 +35,8 @@ A cross-platform mobile application built with Flutter that fetches and displays
 ```bash
 #1. Clone the repo
 git clone https://github.com/pranavkumar14/movie_app.git
-cd flutter-movie-app
-# movie-app
+cd movie_app
+# movie_app
 
 #2. Install Dependencies
  flutter pub get
